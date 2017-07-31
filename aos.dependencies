@@ -1,8 +1,8 @@
 [
   {
-    "repository":  "LineageOS/android_device_motorola_msm8610-common",
+    "repository":  "TeamDarkness-Devices/device_motorola_msm8610-common",
     "target_path": "device/motorola/msm8610-common",
-    "branch": "cm-14.1"
+    "branch": "aos"
   },
   {
     "repository": "LineageOS/android_packages_resources_devicesettings",
